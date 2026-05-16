@@ -40,26 +40,6 @@
 
 ---
 
-## 🗂️ Projects
-
-| Repository | Description |
-|---|---|
-| [BoxDopamine](https://github.com/Wsylq/BoxDopamine) | 📦 |
-| [ClashOfClansPlugin](https://github.com/Wsylq/ClashOfClansPlugin) | ⚔️ |
-| [claude-opus-46](https://github.com/Wsylq/claude-opus-46) | 🤖 |
-| [CountryWar](https://github.com/Wsylq/CountryWar) | 🌍 |
-| [CustomKeyboard](https://github.com/Wsylq/CustomKeyboard) | ⌨️ |
-| [Discord-Streaming-Bot](https://github.com/Wsylq/Discord-Streaming-Bot) | 🎵 |
-| [EI-clone](https://github.com/Wsylq/EI-clone) | 🔁 |
-| [Expressly](https://github.com/Wsylq/Expressly) | 🚀 |
-| [GodsVsMortal](https://github.com/Wsylq/GodsVsMortal) | ⚡ |
-| [Minestom-DistributedWorld](https://github.com/Wsylq/Minestom-DistributedWorld) | 🌐 |
-| [NexusMusicBot](https://github.com/Wsylq/NexusMusicBot) | 🎶 |
-| [RinthDesk](https://github.com/Wsylq/RinthDesk) | 🖥️ |
-| [WarpCore-Plugin](https://github.com/Wsylq/WarpCore-Plugin) | 🔌 |
-
----
-
 <div align="center">
 <sub>stats powered by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> · <a href="https://streak-stats.demolab.com">streak-stats</a> · <a href="https://ghchart.ssh.surf">ghchart</a></sub>
 </div>
