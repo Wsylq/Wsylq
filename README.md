@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![Wsylq's contribution graph](https://ghchart.ssh.surf/Wsylq)](https://github.com/Wsylq)
+[![Wsylq's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Wsylq&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=39d353&point=39d353&area=true&area_color=39d353)](https://github.com/Wsylq)
 
 </div>
 
