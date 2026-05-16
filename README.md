@@ -2,7 +2,7 @@
 
 # hey, I'm Wsylq 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+building+something" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=I+Code+Plugins" alt="Typing SVG" />
 
 <br/>
 
