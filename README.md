@@ -13,7 +13,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 🟩 Contribution Graph — 2026
+## Contribution Graph — 2026
 
 <div align="center">
 
