@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![Wsylq's contribution graph](https://github-chart-tau.vercel.app/user=wsylq&from=2026-04-01&to=2026-05-31&mode=area&theme=tokyo&width=800&height=300&total=0)](https://github.com/Wsylq)
+[![Wsylq's contribution graph](https://github-chart-tau.vercel.app/chart.svg?user=wsylq&from=2026-04-01&to=2026-05-31&mode=area&theme=tokyo&width=800&height=300&total=0))](https://github.com/Wsylq)
 
 </div>
 
