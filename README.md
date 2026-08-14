@@ -17,14 +17,14 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wsylq&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=7d8590&icon_color=58a6ff&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Wsylq&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=7d8590&icon_color=58a6ff&include_all_commits=true&count_private=true" />
 <img height="165" src="https://streak-stats.demolab.com?user=Wsylq&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=39d353&currStreakLabel=e6edf3&sideLabels=7d8590&dates=7d8590&currStreakNum=e6edf3&sideNums=e6edf3" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wsylq&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=7d8590&langs_count=8" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Wsylq&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=7d8590&langs_count=8" />
 
 </div>
 
